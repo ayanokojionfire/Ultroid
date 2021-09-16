@@ -11,9 +11,8 @@ from . import *
 
 REPOMSG = """
 • **ULTROID USERBOT** •\n
-• Repo - [Click Here](https://github.com/TeamUltroid/Ultroid)
-• Addons - [Click Here](https://github.com/TeamUltroid/UltroidAddons)
-• Support - @UltroidSupport
+• OWNER - [Kawaki](https://t.me/kawaki_106)
+• Group - @Kawaki_land-_106
 """
 
 
